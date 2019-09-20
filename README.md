@@ -1,0 +1,2 @@
+# xmrig-configured
+xmrig-configured
